@@ -193,3 +193,10 @@ var myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
 
 let myStr = "This is the first sentence. ";
 myStr += "This is the second sentence.";
+
+
+// 31 task
+
+// Only change code below this line
+const myName = "myName";
+const myStr = "y name is " + myName + " and I am well!";
