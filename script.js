@@ -82,3 +82,10 @@ const product = 8 * 10;
 
 const quotient = 66 / 33;
 
+
+// 15 task
+
+let myVar = 87;
+
+// Only change code below this line
+myVar++;
