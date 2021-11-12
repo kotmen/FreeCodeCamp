@@ -108,4 +108,4 @@ let myDecimal = 5.7;
 
 const product = 2.0 * 2.5;
 
-// update 1
+// update 2
