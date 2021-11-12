@@ -174,10 +174,15 @@ c /= 11;
 
 // 26 task
 
-/* var myStr = "I am a \"double quoted\" 
-string inside \"double quotes\"."; /*
+// var myStr = "I am a \"double quoted\" 
+// string inside \"double quotes\"."; 
 
 
 // task 27
 
 const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
+
+
+// 27 task
+
+var myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
