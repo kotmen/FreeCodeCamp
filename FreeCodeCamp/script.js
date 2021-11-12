@@ -74,6 +74,11 @@ const sum = 20 + 0;
 
 const difference = 45 - 33;
 
+// 13 task
 
+const product = 8 * 10;
 
+// 14 task
+
+const quotient = 66 / 33;
 
