@@ -70,6 +70,9 @@ let catSound = "Meow!";
 
 const sum = 20 + 0;
 
+// 12 task
+
+const difference = 45 - 33;
 
 
 
