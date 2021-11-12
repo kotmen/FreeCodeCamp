@@ -170,3 +170,10 @@ let c = 33;
 a /= 12;
 b /= 4;
 c /= 11;
+
+
+// 26 task
+
+/* var myStr = "I am a \"double quoted\" 
+string inside \"double quotes\"."; /*
+
