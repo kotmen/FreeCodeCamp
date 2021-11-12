@@ -28,6 +28,14 @@ b = a;
 // Only change code below this line
 
 
+// 5 task
+
+var a = 9;
+
+
+// 6 task
+
+
 
 
 
