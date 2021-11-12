@@ -208,3 +208,12 @@ const myStr = "y name is " + myName + " and I am well!";
 const someAdjective = "challenging";
 let myStr = "Learning to code is ";
 myStr += someAdjective;
+
+// 33 task
+
+// Setup
+let lastNameLength = 0;
+const lastName = "Lovelace";
+
+// Only change code below this line
+lastNameLength = lastName.length;
