@@ -109,3 +109,13 @@ let myDecimal = 5.7;
 const product = 2.0 * 2.5;
 
 // update 2
+
+// 19 task
+
+
+const quotient = 4.4 / 2.0; // Change this line
+
+// 20 task
+
+
+var remainder = 11 % 3;
