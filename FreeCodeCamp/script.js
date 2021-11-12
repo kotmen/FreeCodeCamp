@@ -183,6 +183,13 @@ c /= 11;
 const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
 
 
-// 27 task
+// 28 task
 
 var myStr = "FirstLine\n\t\\SecondLine\nThirdLine"; // Change this line
+
+
+// 30 task
+
+
+let myStr = "This is the first sentence. ";
+myStr += "This is the second sentence.";
