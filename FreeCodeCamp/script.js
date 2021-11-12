@@ -35,7 +35,8 @@ var a = 9;
 
 // 6 task
 
-
+var myFirstName = "Kostya";
+var myLastName = "Kotyk"
 
 
 
