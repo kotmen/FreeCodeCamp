@@ -119,3 +119,31 @@ const quotient = 4.4 / 2.0; // Change this line
 
 
 var remainder = 11 % 3;
+
+// 21 task
+
+let a = 3;
+let b = 17;
+let c = 12;
+
+
+// 22 task
+let a = 3;
+let b = 17;
+let c = 12;
+
+// Only change code below this line
+a += 12;
+b += 9;
+c += 7;
+
+// 23 Task
+
+let a = 11;
+let b = 9;
+let c = 3;
+
+// Only change code below this line
+a -= 6;
+b -= 15;
+c -= 1;
