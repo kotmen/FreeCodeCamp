@@ -177,3 +177,7 @@ c /= 11;
 /* var myStr = "I am a \"double quoted\" 
 string inside \"double quotes\"."; /*
 
+
+// task 27
+
+const myStr = '<a href="http://www.example.com" target="_blank">Link</a>';
