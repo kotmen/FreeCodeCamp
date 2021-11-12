@@ -89,3 +89,17 @@ let myVar = 87;
 
 // Only change code below this line
 myVar++;
+
+
+// 16 task
+
+let myVar = 11;
+
+// Only change code below this line
+myVar--;
+
+// 17 task
+
+const ourDecimal = 5.7;
+let myDecimal = 5.7;
+// Only change code below this line
