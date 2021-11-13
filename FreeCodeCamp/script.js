@@ -255,3 +255,12 @@ const lastName = "Lovelace";
 
 // Only change code below this line
 const thirdLetterOfLastName = lastName[2]; // Change this line
+
+
+// 38 task
+
+// Setup
+const lastName = "Lovelace";
+
+// Only change code below this line
+const lastLetterOfLastName = lastName[lastName.length - 1];
