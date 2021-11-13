@@ -238,7 +238,7 @@ const lastName = "Lovelace";
 firstLetterOfLastName = lastName[0]; // Change this line
 
 
-// 36 
+// 36 task
 
 // Setup
 let myStr = "Jello World";
@@ -246,3 +246,12 @@ let myStr = "Jello World";
 // Only change code below this line
 myStr = "Hello World"; // Change this line
 // Only change code above this line
+
+
+// 37 task
+
+// Setup
+const lastName = "Lovelace";
+
+// Only change code below this line
+const thirdLetterOfLastName = lastName[2]; // Change this line
