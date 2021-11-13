@@ -276,3 +276,9 @@ const myAdverb = "quickly";
 // Only change code below this line
 const wordBlanks = myNoun + " " + myAdjective + " " + myVerb + " " + myAdverb; // Change this line
 // Only change code above this line
+
+
+// 40 task
+
+// Only change code below this line
+const myArray = ["Pizza", 45];
