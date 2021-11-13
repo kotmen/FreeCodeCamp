@@ -295,3 +295,12 @@ const myArray = [["Pulls", 24], ["Black Cock", 50]];
 var myArray = [50,60,70];
 
 var myData = myArray[0];
+
+
+// 43 task
+
+// Setup
+const myArray = [18, 64, 99];
+
+// Only change code below this line
+myArray[0] = 45;
