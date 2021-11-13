@@ -282,3 +282,16 @@ const wordBlanks = myNoun + " " + myAdjective + " " + myVerb + " " + myAdverb; /
 
 // Only change code below this line
 const myArray = ["Pizza", 45];
+
+
+// 41 task
+
+// Only change code below this line
+const myArray = [["Pulls", 24], ["Black Cock", 50]];
+
+
+// 42 task
+
+var myArray = [50,60,70];
+
+var myData = myArray[0];
