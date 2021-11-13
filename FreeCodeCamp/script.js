@@ -362,3 +362,22 @@ const myList =[
     ["choclate", 3],
     ["milk", 5],
   ];
+
+  // 50 task 
+
+  function reusableFunction() {
+    console.log("Hi World");
+  }
+  
+  reusableFunction();
+
+
+  // 51 task
+
+  
+
+function functionWithArgs(a, b) {
+    console.log(a + b);
+  }
+  
+  functionWithArgs(1, 2)
