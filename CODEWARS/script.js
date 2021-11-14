@@ -1,6 +1,5 @@
-// Setup
-const lastName = "Lovelace";
+function numberToString(num) {
+    return num.toString();
+  }
 
-// Only change code below this line
-const secondToLastLetterOfLastName = lastName[lastName.length - 2]; // Change this line
-
+/////////////////////////////////////////////////
