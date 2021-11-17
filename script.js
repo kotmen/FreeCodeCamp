@@ -103,3 +103,9 @@ myVar--;
 const ourDecimal = 5.7;
 let myDecimal = 5.7;
 // Only change code below this line
+
+// 18 task
+
+const product = 2.0 * 2.5;
+
+// update 1
