@@ -14,3 +14,8 @@ String.prototype.toJadenCase = function () {
   }
   return returnString.join(" ");
 };
+////////////////////////////////////////
+
+function filter_list(l) {
+return l.filter( str => typeof str != 'string');
+}
