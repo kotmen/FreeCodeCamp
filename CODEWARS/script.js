@@ -19,3 +19,12 @@ String.prototype.toJadenCase = function () {
 function filter_list(l) {
 return l.filter( str => typeof str != 'string');
 }
+//////////////////////////////////////
+
+function openOrSenior(data) 
+  { return  data.map(x => 
+    { if(x[0] >= 55 && x[1] > 7)
+      {return "Senior";}
+      else{return "Open";} 
+    }); 
+  }
