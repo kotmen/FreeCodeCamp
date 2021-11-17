@@ -53,3 +53,7 @@ function positiveSum(arr) {
 function disemvowel(str) {
   return str.replace(/[aeiou]/gi, '');
 }
+/////////////////////////////
+function even_or_odd(number) {
+  return Math.abs(number) % 2 === 1 ? "Odd" : "Even";
+}
