@@ -717,3 +717,49 @@ function orderMyLogic(val) {
 
 orderMyLogic(7);
 
+///////////////// 74 task
+
+function testSize(num) {
+  // Only change code below this line
+  if(num < 5){
+    return 'Tiny';
+  } else if(num < 10) {
+    return 'Small';
+  }  else if(num < 15) {
+    return 'Medium';
+  }  else if(num < 20) {
+    return 'Large';
+  }  else if(num >= 20) {
+    return 'Huge';
+  }
+  // Only change code above this line
+}
+
+testSize(7);
+
+
+///////////////// 75 task
+function caseInSwitch(val) {
+  let answer = "";
+  // Only change code below this line
+  switch(val){
+  case 1 :
+  answer = "alpha";
+  break;
+  case 2 :
+  answer = "beta";
+  break;
+  case 3 :
+  answer = "gamma";
+  break;
+  default :
+  answer = "delta";
+  break;
+  }
+
+
+  // Only change code above this line
+  return answer;
+}
+
+caseInSwitch(3);
