@@ -910,3 +910,16 @@ switch(card) {
 }
 
 cc(2); cc(3); cc(7); cc('K'); cc('A');
+
+
+//////////////// 82 task
+
+const myDog = {
+  // Only change code below this line
+  name: "Guf",
+  legs: 32,
+  tails: 4, 
+  friends: ["Donald Trump", "Ivanka Trump"]
+
+  // Only change code above this line
+};
