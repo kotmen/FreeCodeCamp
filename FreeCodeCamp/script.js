@@ -935,3 +935,32 @@ const testObj = {
 // Only change code below this line
 var hatValue = testObj.hat;      // Change this line
 var shirtValue = testObj.shirt;    // Change this line
+
+
+
+///////////////// 84 task
+
+// Setup
+const testObj = {
+  "an entree": "hamburger",
+  "my side": "veggies",
+  "the drink": "water"
+};
+
+// Only change code below this line
+const entreeValue = testObj["an entree"];   // Change this line
+const drinkValue = testObj["the drink"];    // Change this line
+
+///////////////////// 85 task
+
+
+// Setup
+const testObj = {
+  "an entree": "hamburger",
+  "my side": "veggies",
+  "the drink": "water"
+};
+
+// Only change code below this line
+const entreeValue = testObj["an entree"];   // Change this line
+const drinkValue = testObj["the drink"];    // Change this line
